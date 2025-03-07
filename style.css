@@ -1,0 +1,34 @@
+@font-face {
+    font-family:Retro;
+    src: url("Retro60Prime.ttf");
+  }
+  body  {
+    background-image: url("retroSun.jpg");
+    background-color: #cccccc;
+  }
+  h{
+    font-family:Retro;
+    color:#880808;
+    font-size: 100px;
+   
+  }
+  p{
+    color:#FDDA0D;
+    font-family:Retro;
+    font-size: 17px;
+  }
+  .center {
+    display: block;
+    margin-right: auto;
+    width: 30%;
+  }
+  .cn{
+    font-size: 15px;
+    font-weight: 100;
+    font-family: Retro;
+    color:#F2F0EF;
+  }
+ p:hover{
+    background-color: #880808;
+ }
+
