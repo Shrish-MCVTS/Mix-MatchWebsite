@@ -1,9 +1,9 @@
-
+/* New font by importing it*/
 @font-face {
     font-family:Retro;
     src: url("Retro60Prime.ttf");
   }
-
+/* Styling the body, paragraphs, and heading*/
   body  {
     background-image: url("retroSun.jpg");
     background-color: #cccccc;
@@ -19,7 +19,7 @@
     font-family:Retro;
     font-size: 17px;
   }
-
+/* Styling with classes*/
   .center {
     display: block;
     margin-right: auto;
@@ -31,7 +31,7 @@
     font-family: Retro;
     color:#F2F0EF;
   }
-
+/*When hovering over the paragraphing background will change*/
  p:hover{
     background-color: #880808;
  }
