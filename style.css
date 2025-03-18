@@ -1,7 +1,9 @@
+<!-- Imported and initialized new font-->
 @font-face {
     font-family:Retro;
     src: url("Retro60Prime.ttf");
   }
+<!--Styling the heading, body, and paragraphs-->
   body  {
     background-image: url("retroSun.jpg");
     background-color: #cccccc;
@@ -17,6 +19,7 @@
     font-family:Retro;
     font-size: 17px;
   }
+<!-- styling using classes-->
   .center {
     display: block;
     margin-right: auto;
@@ -28,6 +31,7 @@
     font-family: Retro;
     color:#F2F0EF;
   }
+<!--Used to change the color behind the text-->
  p:hover{
     background-color: #880808;
  }
